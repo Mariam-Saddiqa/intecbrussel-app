@@ -26,6 +26,25 @@ const App=()=>{
                 isOpen ? 'Yes' : 'No'
             }
         </h3>
+        <div className="container">THIS IS MY NEW PAGE
+        <table className="table">
+            <tr>
+            <th>React</th>
+            <th>NodeJs</th>
+            <th>ExpressJs</th>
+            <th>Bootstrap</th>
+            <th>Css</th>
+            </tr>
+            <tr>
+            <td>Framework</td>
+            <td>Javascript Library</td>
+            <td>Framework</td>
+            <td>Framework</td>
+            <td>Framework</td>
+            </tr>
+            
+        </table>
+        </div>
         </>
     )
 }
